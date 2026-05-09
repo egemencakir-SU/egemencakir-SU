@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Egemen Çakır</h1>
 <h3 align="center">A passionate developer who is interested in web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Front-End and Back-End Development**
 
 - 📫 How to reach me **egemencakir404@gmail.com**
 
